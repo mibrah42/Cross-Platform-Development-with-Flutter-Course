@@ -7,7 +7,7 @@ Learn to build apps that work on Android, iOS, Web, and Desktop
 
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase. In this course, we will dive into Flutter development by building 5 applications from scratch. We will cover building great user interfaces, navigation, persistent storage, network requests (API calls), managing state, integration with Firebase, and all the concepts you need to start bringing your ideas to life. A detailed outline of the course curriculum is shown below:
 
-**Environment Setup**
+**Environment Setup** <br />
 This section will cover setting up your development environment and getting all the tools you need to start developing apps with Flutter
   - Downloading the Flutter SDK
   - Getting Android Studio and Xcode
