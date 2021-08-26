@@ -2,6 +2,11 @@
 
 Learn to build apps that work on Android, iOS, Web, and Desktop
 
+![Author badge](https://img.shields.io/badge/Author-Mohamed%20Ibrahim-red)
+![Framework badge](https://img.shields.io/badge/Framework-Flutter-blue)
+![Language badge](https://img.shields.io/badge/Language-dart-lightgrey)
+
+
 [![Course Showcase](https://user-images.githubusercontent.com/26859947/130891486-1079f8c5-4012-4bdf-8702-f1fa399a3f17.png)](https://www.youtube.com/watch?v=ccPni4mBfak&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=1&ab_channel=MohamedIbrahim)
 [**Go To Course**](https://www.youtube.com/watch?v=ccPni4mBfak&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=1&ab_channel=MohamedIbrahim)
 
