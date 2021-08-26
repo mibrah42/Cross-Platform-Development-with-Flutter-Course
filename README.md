@@ -18,6 +18,7 @@ This section will cover setting up your development environment and getting all 
   - Downloading the Flutter SDK
   - Getting Android Studio and Xcode
   - Git
+  - nodejs
   - Surge
   - VSCode
     - Downloading useful plugins (flutter, dart, and sublime text key map)
