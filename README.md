@@ -4,7 +4,8 @@ Learn to build apps that work on Android, iOS, Web, and Desktop
 
 ![Author badge](https://img.shields.io/badge/Author-Mohamed%20Ibrahim-red)
 ![Framework badge](https://img.shields.io/badge/Framework-Flutter-blue)
-![Language badge](https://img.shields.io/badge/Language-dart-lightgrey)
+![Language badge](https://img.shields.io/badge/Language-Dart-lightgrey)
+[![Community badge](https://img.shields.io/badge/Community-Humans%20in%20Tech-black)](https://www.humansintech.io)
 
 
 [![Course Showcase](https://user-images.githubusercontent.com/26859947/130891486-1079f8c5-4012-4bdf-8702-f1fa399a3f17.png)](https://www.youtube.com/watch?v=ccPni4mBfak&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=1&ab_channel=MohamedIbrahim)
@@ -134,7 +135,6 @@ Pokemon Explorer
 [Slides and Assets](https://drive.google.com/drive/folders/1seMupFBbLDSVuMu2mvNr4OUMrCzHN2T9?usp=sharing)
 
 ![pokedex3](https://user-images.githubusercontent.com/26859947/130743290-93af253b-cc72-4f45-b08e-63582e6042c3.png)
-
 
 <br/>
 
@@ -272,7 +272,6 @@ const kBlackColor = Color(0xFF171A1E);
 const kRedColor = Color(0xFFCF6679);
 ```
 
-
 # Notable
 
 Note-taking made simple
@@ -361,7 +360,6 @@ Real-time chat built with flutter and firebase
 
 
 ![chatly](https://user-images.githubusercontent.com/26859947/130743855-9eef34f3-44a7-408d-91cb-17841eea9a7b.png)
-
 
 ### Create new project
 
