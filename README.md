@@ -5,7 +5,7 @@ Learn to build apps that work on Android, iOS, Web, and Desktop
 ![Author badge](https://img.shields.io/badge/Author-Mohamed%20Ibrahim-red)
 ![Framework badge](https://img.shields.io/badge/Framework-Flutter-blue)
 ![Language badge](https://img.shields.io/badge/Language-Dart-lightgrey)
-[![Community badge](https://img.shields.io/badge/Community-Humans%20in%20Tech-black)](https://www.humansintech.io)
+[![Community badge](https://img.shields.io/badge/Community-Join%20Flutter%20Dev%20on%20humansintech.io-black)](https://www.humansintech.io)
 
 
 [![Course Showcase](https://user-images.githubusercontent.com/26859947/130891486-1079f8c5-4012-4bdf-8702-f1fa399a3f17.png)](https://www.youtube.com/watch?v=ccPni4mBfak&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=1&ab_channel=MohamedIbrahim)
