@@ -126,7 +126,7 @@ flutter_native_splash:
 
 # Pokedex
 
-Pokemon Explorer Built with Flutter
+Pokemon Explorer
 
 [Web Demo](https://pokedexweb.surge.sh/) <br />
 [Video Tutorial](https://www.youtube.com/watch?v=8YW-57RfU78&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=8&ab_channel=MohamedIbrahim)
@@ -191,7 +191,6 @@ include: package:lint/analysis_options.yaml
 ### Credits
 
 Pokemon thumbnails and data provided by: https://github.com/fanzeyi/pokemon.json
-
 
 # Cryptospace
 
