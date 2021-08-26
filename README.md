@@ -362,10 +362,11 @@ Real-time chat built with flutter and firebase
 
 [Slides and assets](https://drive.google.com/drive/folders/1ofx4oMNyrpuiUjmVobE5xPaNTHWVbrW5?usp=sharing)
 
-### Get Starter Code
+### Create new project
 
 ```bash
-git clone https://github.com/mibrah42/Chatly.git -b starter-code
+$ flutter create chatly
+$ cd chatly
 ```
 
 ### Dependencies
