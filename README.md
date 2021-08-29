@@ -8,9 +8,9 @@ Learn to build apps that work on Android, iOS, Web, and Desktop
 [![Community badge](https://img.shields.io/badge/Community-Join%20Flutter%20Dev%20on%20humansintech.io-black)](https://www.humansintech.io)
 
 
-[![Course Showcase](https://user-images.githubusercontent.com/26859947/130891486-1079f8c5-4012-4bdf-8702-f1fa399a3f17.png)](https://www.youtube.com/watch?v=ccPni4mBfak&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=1&ab_channel=MohamedIbrahim)
+[![Course Showcase](https://user-images.githubusercontent.com/26859947/130891486-1079f8c5-4012-4bdf-8702-f1fa399a3f17.png)](https://www.youtube.com/watch?v=FWPmfBmkXv8&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=2)
 
-[**Go To Course**](https://www.youtube.com/watch?v=ccPni4mBfak&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=1&ab_channel=MohamedIbrahim)
+[**Go To Course**](https://www.youtube.com/watch?v=FWPmfBmkXv8&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=2)
 
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase ([flutter.dev](https://flutter.dev/)). In this course, we will dive into Flutter development by building 5 applications from scratch. We will cover building great user interfaces, navigation, persistent storage, network requests (API calls), managing state, integration with Firebase, and all the concepts you need to start bringing your ideas to life. A detailed outline of the course curriculum is shown below:
 
