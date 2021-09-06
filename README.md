@@ -77,6 +77,30 @@ In this section, you will build and deploy a real-time chat application with ema
 
 ![portfolio](https://user-images.githubusercontent.com/26859947/130892183-64da6794-f959-4d8b-af5e-ed03a0de6cf1.png)
 
+### url_launcher configuration
+
+iOS (info.plist)
+```
+<key>LSApplicationQueriesSchemes</key>
+<array>
+  <string>https</string>
+  <string>http</string>
+</array>
+```
+
+Android (AndroidManifest.xml)
+```
+<queries>
+  <intent>
+      <action android:name="android.intent.action.VIEW" />
+      <data android:scheme="https" />
+  </intent>
+  <intent>
+      <action android:name="android.intent.action.VIEW" />
+      <data android:scheme="http" />
+  </intent>
+</queries>
+```
 
 ## Dependencies
 ```yaml
