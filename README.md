@@ -70,7 +70,6 @@ In this section, you will build and deploy a real-time chat application with ema
 # Personal Portfolio
 
 [Web Demo](https://mohamedibrahim.surge.sh/) <br />
-[Video Tutorials](https://www.youtube.com/watch?v=4ji881T8zw4&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=2&ab_channel=MohamedIbrahim) <br />
 [Slides and Assets](https://drive.google.com/drive/folders/19QtqYkqA89qUIeQZBrVJNKYxEAcpKp5l?usp=sharing)
 
 ![portfolio](https://user-images.githubusercontent.com/26859947/130892183-64da6794-f959-4d8b-af5e-ed03a0de6cf1.png)
@@ -153,7 +152,6 @@ flutter_native_splash:
 Pokemon Explorer
 
 [Web Demo](https://pokedexweb.surge.sh/) <br />
-[Video Tutorials](https://www.youtube.com/watch?v=8YW-57RfU78&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=8&ab_channel=MohamedIbrahim) <br />
 [Slides and Assets](https://drive.google.com/drive/folders/1seMupFBbLDSVuMu2mvNr4OUMrCzHN2T9?usp=sharing)
 
 ![pokedex3](https://user-images.githubusercontent.com/26859947/130743290-93af253b-cc72-4f45-b08e-63582e6042c3.png)
@@ -221,7 +219,6 @@ Pokemon thumbnails and data provided by: https://github.com/fanzeyi/pokemon.json
 Cryptocurrency Tracker
 
 [Web Demo](https://cryptospace.surge.sh/) <br />
-[Video Tutorials](https://www.youtube.com/watch?v=UbQe-ljv1ps&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=14&ab_channel=MohamedIbrahim) <br />
 [Slides and Assets](https://drive.google.com/drive/folders/1_FlldcNUqCAPTORbnfyKKBsKpdc-3xBR?usp=sharing)
 
 
@@ -299,7 +296,6 @@ const kRedColor = Color(0xFFCF6679);
 Note-taking made simple
 
 [Web Demo](https://notable.surge.sh/) <br />
-[Video Tutorials](https://www.youtube.com/watch?v=Lum3RWB7pc4&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=20&ab_channel=MohamedIbrahim) <br />
 [Slides and Assets](https://drive.google.com/drive/folders/1xbDWVOuSpHJqLab3py2FtvPHfjj0HYvG?usp=sharing)
 
 ![notable_showcase](https://user-images.githubusercontent.com/26859947/130743438-ecfc329c-e25b-47fd-998d-fb147b2b05ce.png)
@@ -377,7 +373,6 @@ const kDarkGrey = Color(0xFF181818);
 Real-time chat built with flutter and firebase
 
 [Web Demo](https://chatly.surge.sh/) <br />
-[Video Tutorials](https://www.youtube.com/watch?v=y5poB2Juk4A&list=PLSpXkMCnT_uY2tcpylu2DsVzpwei8gpIT&index=26&ab_channel=MohamedIbrahim) <br />
 [Slides and assets](https://drive.google.com/drive/folders/1ofx4oMNyrpuiUjmVobE5xPaNTHWVbrW5?usp=sharing)
 
 
